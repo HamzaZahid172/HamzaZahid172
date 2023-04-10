@@ -6,18 +6,55 @@ I'm a software engineer with experience in Protractor,  TyperScript,  Cypress, D
 
 Fortunately, I've had the opportunity to help other software rockstars🔥 start their career in software engineering and I still mentor a lot of developers to become top-notch respected engineers.
 
-🛠 Skills
-Project Management, Communication, Active listener, Team player, Leadership
+🛠 Technical Skills & Tools:
+Skills:
+• JavaScript/ TypeScript.
+• Google API
+• Node.js
+• React.js
+• AWS
+• GraphQL
+• RESTful
+• Docker Kubernetes
+• PostgreSQL, MongoDB
 
-Tech Stack
-Client: React, Redux, React-Native, TailwindCSS
+Data Analyst
+• Excel Expert
+• Web Scarper
+• Data Management
+• SQAE(Software Quality Assurance Engineer)
+• Software Engineer
 
-Server: Node, Express
+Database:
+• Postgres
+• SQL
 
-Database: PostgreSQL, MongoDB
+Automation:
+• Protractor
+• webdriver.io
+• Mocha Chai
+• Allure-report
 
-Data structures & Algorithms: Time & Space Complexity, Stacks, Queues, Binary tree, Graphs, merge sort, quick sort etc...
+Monitoring
+• Jira
+• Zendesk
+• Trello
+
+- HTML5 - CSS - JavaScript - Node.js
+- Python - Selenium - Cypress - API - Network request(post.get) - Data Science(Pandas) - Data Analysis -
+- MySql - PostgreSQL - 
+- JIRA - Trello - Zendesk - 
+- TestProject.io - Import.io - Postman
+- Workbench - AWS - UAT -
 
 
+Interpersonal Skills
+
+- Communication -
+- Emotional Intelligence -
+- Conflict Management -
+- Problem Solving -
+- Leadership -
+- Listening -
 
 Connect with me 😜
