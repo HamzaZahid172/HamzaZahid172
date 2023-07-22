@@ -1,5 +1,5 @@
 Hamza Zahid
-The Tech Evangelist👋
+The Tech Engineer👋
 
 🚀 About Me
 I'm a software engineer with experience in Protractor,  TyperScript,  Cypress, Data Extraction, Node.js, import.io, OCOTPARSE,  SaaS, CLI(Command Line Interface), Python, Rest API, Selenium, Data Science, Ubuntu, Automation, Web scraping, X-path, JavaScript, AWS, Linux,  Github, Regular expression Database (SQL), Html 5, CSS, PHP(La ravel), Excel, Google API, Google Sheet, Data Entry, Software Engineering, Data management, SQL, SQAE, and Data Analysis
@@ -21,6 +21,7 @@ Skills:
 Data Analyst
 • Excel Expert
 • Web Scarper
+• Data Extraction
 • Data Management
 • SQAE(Software Quality Assurance Engineer)
 • Software Engineer
