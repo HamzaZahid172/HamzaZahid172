@@ -1,6 +1,11 @@
 Hamza Zahid
 The Tech Engineer👋
 
+ Linkedin: Hamza Zahid Mail: zahidhamza172@gmail.com
+
+🏢 Software Engineer working at Arbisoft Lahore 🇵🇰.
+🏢 QA Automation Engineer working at Kayak (Contract).
+
 🚀 About Me
 I'm a software engineer with experience in Protractor,  TyperScript,  Cypress, Data Extraction, Node.js, import.io, OCOTPARSE,  SaaS, CLI(Command Line Interface), Python, Rest API, Selenium, Data Science, Ubuntu, Automation, Web scraping, X-path, JavaScript, AWS, Linux,  Github, Regular expression Database (SQL), Html 5, CSS, PHP(La ravel), Excel, Google API, Google Sheet, Data Entry, Software Engineering, Data management, SQL, SQAE, and Data Analysis
 
