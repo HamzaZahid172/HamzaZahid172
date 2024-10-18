@@ -3,12 +3,12 @@ The Tech Engineer👋
 
  Linkedin: [Hamza Zahid](https://www.linkedin.com/in/hamza-zahid-a4201b166/) Mail: zahidhamza172@gmail.com
 
-🏢 Software Engineer working at Arbisoft Lahore 🇵🇰.
+🏢 Sr.Software Engineer working at Arbisoft Lahore 🇵🇰.
 
-🏢 QA Automation Engineer working at Kayak (Contract).
+🏢 Sr.Software Engineer working at Zuub (Contract).
 
 🚀 About Me
-I'm a software engineer with experience in Puppeteer, Protractor,  TyperScript,  Cypress, Data Extraction, Node.js, import.io, OCOTPARSE,  SaaS, CLI(Command Line Interface), Python, Rest API, Selenium, Data Science, Ubuntu, Automation, Web scraping, X-path, JavaScript, AWS, Linux,  Github, Regular expression Database (SQL), Html 5, CSS, PHP(La ravel), Excel, Google API, Google Sheet, Data Entry, Software Engineering, Data management, SQL, SQAE, and Data Analysis
+I'm a software engineer with experience in Javascript / TyperScript, Puppeteer, Protractor, Cypress, Data Extraction, Node.js, import.io, OCOTPARSE,  SaaS, CLI(Command Line Interface), Python, Rest API, Selenium, Data Science, Ubuntu, Automation, Web scraping, X-path, AWS, Linux,  Github, Regular expression Database (SQL), Html 5, CSS, PHP(La ravel), Excel, Google API, Google Sheet, Data Entry, Software Engineering, Data management, SQL, SQAE, and Data Analysis
 
 Fortunately, I've had the opportunity to help other software rockstars🔥 start their career in software engineering and I still mentor a lot of developers to become top-notch respected engineers.
 
@@ -54,7 +54,7 @@ Monitoring
 - MySql - PostgreSQL - 
 - JIRA - Trello - Zendesk - YouTrack
 - TestProject.io - Import.io - Postman
-- Workbench - AWS - UAT -
+- Workbench - AWS(Ec2, S3, lamda) - UAT -
 
 
 Interpersonal Skills
