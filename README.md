@@ -14,7 +14,7 @@
 I'm a results-driven Senior Software Engineer with over 7 years of hands-on experience in:
 
 - **JavaScript/TypeScript, Python, Node.js, React.js**
-- **Web Automation (Puppeteer, Playwright, Cypress)**
+- **Web Automation (Puppeteer, Playwright, Cypress, WebdriverIO, Protractor)**
 - **Cloud & DevOps** – AWS (EC2, Lambda), Docker, Kubernetes
 - **Data Analysis & Scraping** – Python, Pandas, SQL, XPath
 - **QA & Testing** – Mocha, Chai, Allure Reports
@@ -43,8 +43,12 @@ I've helped mentor junior engineers and build production-grade solutions across 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
 **Automation & Testing**  
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright) 
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer) 
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-black?style=flat-square&logo=webdriverio) 
+![Protractor](https://img.shields.io/badge/-Protractor-black?style=flat-square&logo=protractor) 
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress) 
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)  
+[![Allure](https://img.shields.io/badge/-Allure%20Reports-black?style=flat-square&logo=github)](https://github.com/allure-framework)
 **Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
