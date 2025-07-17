@@ -64,7 +64,7 @@ I've helped mentor junior engineers and build production-grade solutions across 
 |--------|-------------|------------|------|
 | **Web Scraper(Project: Import.io)** | Distributed scraper using Celery & Scrapy | Python, Python, Node.js Redis, Docker | *(Private Repo)* |
 | **Automation Suite(Project: Kayak)** | End-to-end testing framework with Allure reports | Protractor, WebdriverIO, Mocha | *(Private Repo)* |
-| **Web Scraping(Project: Zuub)** | Tools for billing, scheduling, and reporting | TypeScript, PostgreSQL, Playwright, Puppeteer, Python | *(Private Repo)* |
+| **Web Scraping(Project: Zuub)** | Tools for Scrape data from dental insurance patient, billing, scheduling, and reporting | TypeScript, PostgreSQL, Playwright, Puppeteer, Python | *(Private Repo)* |
 
 ---
 
