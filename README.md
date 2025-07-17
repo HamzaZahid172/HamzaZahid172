@@ -1,7 +1,7 @@
 # 👨‍💻 Hamza Zahid Butt – Tech Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Zahid-blue?logo=linkedin)](https://www.linkedin.com/in/hamza-zahid-a4201b166)
-[![Gmail](https://img.shields.io/badge/Email-zahidzahra172@gmail.com-red?logo=gmail)](mailto:zahidzahra172@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Zahid%20Butt-blue?logo=linkedin)](https://www.linkedin.com/in/hamza-zahid-butt-a4201b166/)
+[![Gmail](https://img.shields.io/badge/Email-zahidzahra172@gmail.com-red?logo=gmail)](mailto:zahidhamza172@gmail.com)
 
 🚀 **Senior Software Engineer @ Arbisoft | Contract @ Zuub**
 
@@ -75,7 +75,7 @@ Feel free to reach out:
 📧 zahidzahra172@gmail.com  
 📞 +49 1575 7102415 
 📍 Currently in Munich, available for remote roles  
-🌐 [LinkedIn](https://www.linkedin.com/in/hamza-zahid-a4201b166)  
+🌐 [LinkedIn](https://www.linkedin.com/in/hamza-zahid-butt-a4201b166/)  
 
 ---
 
