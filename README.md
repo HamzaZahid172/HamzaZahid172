@@ -25,8 +25,8 @@ I've helped mentor junior engineers and build production-grade solutions across 
 
 ## 💡 What I Offer for Clients
 
-- ✅ Scalable web scraping infrastructure (Scrapy, Celery, Docker)
-- ✅ End-to-end test automation suites (Playwright, Cypress)
+- ✅ Scalable web scraping infrastructure (Scrapy, Node.js, Python, Celery, Docker)
+- ✅ End-to-end test automation suites (Playwright, WebdriverIO, Protractor, Cypress)
 - ✅ Backend APIs (Node.js + PostgreSQL/MongoDB)
 - ✅ DevOps & CI/CD setup (GitHub Actions, Docker, AWS)
 - ✅ Freelancer/contractor available on hourly/project basis
@@ -41,6 +41,7 @@ I've helped mentor junior engineers and build production-grade solutions across 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+
 **Automation & Testing**  
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright) 
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer) 
@@ -49,6 +50,7 @@ I've helped mentor junior engineers and build production-grade solutions across 
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress) 
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)  
 [![Allure](https://img.shields.io/badge/-Allure%20Reports-black?style=flat-square&logo=github)](https://github.com/allure-framework)
+
 **Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
@@ -60,9 +62,9 @@ I've helped mentor junior engineers and build production-grade solutions across 
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Web Scraper** | Distributed scraper using Celery & Scrapy | Python, Redis, Docker | *(Private Repo)* |
-| **Automation Suite** | End-to-end testing framework with Allure reports | Playwright, Mocha | *(Private Repo)* |
-| **Zuub Internal Tools** | Tools for billing, scheduling, and reporting | TypeScript, Node.js, PostgreSQL | *(Private Repo)* |
+| **Web Scraper(Project: Import.io)** | Distributed scraper using Celery & Scrapy | Python, Python, Node.js Redis, Docker | *(Private Repo)* |
+| **Automation Suite(Project: Kayak)** | End-to-end testing framework with Allure reports | Protractor, WebdriverIO, Mocha | *(Private Repo)* |
+| **Web Scraping(Project: Zuub)** | Tools for billing, scheduling, and reporting | TypeScript, PostgreSQL, Playwright, Puppeteer, Python | *(Private Repo)* |
 
 ---
 
