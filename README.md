@@ -69,6 +69,19 @@ I've helped mentor junior engineers and build production-grade solutions across 
 
 ---
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaZahid172&theme=github-compact&radius=8&area=true" alt="Activity Graph">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HamzaZahid172&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaZahid172&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
+</p>
+
+---
+
 ## 📫 Get in Touch
 
 Feel free to reach out:
@@ -78,7 +91,6 @@ Feel free to reach out:
 📍 Currently in Munich, available for remote roles  
 🌐 [LinkedIn](https://www.linkedin.com/in/hamza-zahid-butt-a4201b166/)  
 
-![Hamza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaZahid172&theme=github-compact&radius=8&area=true)
 
 ---
 
