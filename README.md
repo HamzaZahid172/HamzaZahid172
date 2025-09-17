@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Zahid%20Butt-blue?logo=linkedin)](https://www.linkedin.com/in/hamza-zahid-butt-a4201b166/)
 [![Gmail](https://img.shields.io/badge/Email-zahidzahra172@gmail.com-red?logo=gmail)](mailto:zahidhamza172@gmail.com)
 
+
 🚀 **Senior Software Engineer @ Arbisoft | Contract @ Zuub**
 
 📍 Munich, Germany | 💻 Open to remote freelance & full-time opportunities
@@ -76,6 +77,8 @@ Feel free to reach out:
 📞 +49 1575 7102415 
 📍 Currently in Munich, available for remote roles  
 🌐 [LinkedIn](https://www.linkedin.com/in/hamza-zahid-butt-a4201b166/)  
+
+![Hamza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaZahid172&theme=github-compact&radius=8&area=true)
 
 ---
 
