@@ -76,8 +76,8 @@ I've helped mentor junior engineers and build production-grade solutions across 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HamzaZahid172&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaZahid172&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=HamzaZahid172&hide_border=true&cache_seconds=86400" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaZahid172&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats">
 </p>
 
 ---
