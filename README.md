@@ -30,11 +30,36 @@ My current engineering direction is focused on:
 
 ---
 
+## 🌱 Featured Project: GreenOps AI
+
+[![Repository](https://img.shields.io/badge/GitHub-GreenOps%20AI-181717?style=for-the-badge&logo=github)](https://github.com/HamzaZahid172/greenops-ai)
+[![CI](https://github.com/HamzaZahid172/greenops-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/HamzaZahid172/greenops-ai/actions)
+
+An **open-source local AI engineering and GreenOps platform** for analyzing cloud and AI workload configurations, identifying resource inefficiencies, estimating carbon impact and choosing lower-carbon execution windows.
+
+**What it demonstrates:**
+
+- CPU, memory and replica configuration analysis with estimated resource savings
+- Carbon-intensity API integration and carbon-aware scheduling for flexible workloads
+- Local AI assistant powered by **Ollama / Llama 3.2**
+- Tool-calling agent for workload analysis, carbon lookup, scheduling and documentation search
+- **RAG knowledge base** with document uploads, embeddings and semantic search using **PostgreSQL + pgvector**
+- Persistent workload-analysis and scheduling history
+- AI evaluation scenarios for tool selection, retrieval and grounded answers
+- **Prometheus metrics and Grafana dashboards** for application and AI performance
+- React / TypeScript frontend, FastAPI backend, Docker Compose and GitHub Actions CI
+
+**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · pgvector · Ollama · Docker · Pytest · Prometheus · Grafana
+
+[Explore the repository](https://github.com/HamzaZahid172/greenops-ai) · [Architecture](https://github.com/HamzaZahid172/greenops-ai/blob/main/docs/ARCHITECTURE.md) · [Screenshots](https://github.com/HamzaZahid172/greenops-ai#screenshots)
+
+---
+
 ## 🤖 Featured Project: AI Job Application OS
 
 [![Repository](https://img.shields.io/badge/GitHub-AI%20Job%20Application%20OS-181717?style=for-the-badge&logo=github)](https://github.com/HamzaZahid172/ai-job-application-os)
 [![CI](https://github.com/HamzaZahid172/ai-job-application-os/actions/workflows/ci.yml/badge.svg)](https://github.com/HamzaZahid172/ai-job-application-os/actions/workflows/ci.yml)
-[![Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/SXJ5NLBsC5s)
+[![Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/QiObEz8mIns)
 
 A **local-first AI-assisted workflow** for evaluating job opportunities against a candidate CV.
 
@@ -42,7 +67,7 @@ A **local-first AI-assisted workflow** for evaluating job opportunities against 
 
 - PDF CV parsing and uploaded/default candidate profiles
 - Local LLM integration with **Ollama / Llama 3.2**
-- Structured job requirement extraction
+- Structured job requirement extraction with a deterministic fallback when Ollama is unavailable
 - Deterministic and explainable CV-to-job matching
 - Skill-gap, experience and language analysis
 - AI-assisted cover-letter generation
@@ -50,8 +75,10 @@ A **local-first AI-assisted workflow** for evaluating job opportunities against 
 - SQLite persistence and duplicate-application protection
 - FastAPI backend and Swagger documentation
 - Docker containerization
-- Pytest automated testing
+- Pytest automated testing and repeatable matching evaluation scenarios
 - GitHub Actions CI with automated tests and Docker build verification
+
+**Stack:** Python · FastAPI · Ollama · PDF Parsing · SQLite · Docker · Pytest · GitHub Actions
 
 **Architecture:**
 
@@ -124,6 +151,7 @@ JavaScript, TypeScript, React.js, MongoDB, Redis, Pandas, Scrapy, BeautifulSoup,
 
 | Project | Focus | Stack |
 |---|---|---|
+| [**GreenOps AI**](https://github.com/HamzaZahid172/greenops-ai) | Workload efficiency, carbon-aware scheduling, tool-calling agents, RAG and AI observability | Python, FastAPI, React, TypeScript, PostgreSQL, pgvector, Ollama, Docker, Prometheus, Grafana |
 | [**AI Job Application OS**](https://github.com/HamzaZahid172/ai-job-application-os) | Local-first AI, CV matching, explainable scoring, workflow automation | Python, FastAPI, Ollama, Docker, SQLite, Pytest, GitHub Actions |
 | **Distributed Web Scraping Platform** | Scalable extraction and processing workflows | Python, Scrapy, Celery, Redis, Docker |
 | **Browser Automation Systems** | End-to-end workflow automation and extraction | TypeScript, Playwright, Puppeteer, Selenium |
