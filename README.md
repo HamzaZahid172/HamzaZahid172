@@ -98,6 +98,22 @@ Cover Letter → Human Approval → SQLite
 
 ---
 
+## 🧪 Open-Source API Quality Starter
+
+[![Python API tests](https://github.com/HamzaZahid172/simple-python-api/actions/workflows/ci.yml/badge.svg)](https://github.com/HamzaZahid172/simple-python-api/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-3776AB?logo=python&logoColor=white)](https://github.com/HamzaZahid172/simple-python-api)
+[![Flask](https://img.shields.io/badge/Flask-API-000000?logo=flask)](https://github.com/HamzaZahid172/simple-python-api)
+
+A practical, contributor-friendly **Flask API testing starter** demonstrating an app factory, input validation, regression tests, CI and open-source contribution guidance.
+
+- Automated GitHub Actions tests on **Python 3.11 and 3.12**
+- **10 regression tests** for endpoint behavior, invalid requests and isolated app state
+- Clear examples for getting started with API testing and reviewing pull requests
+
+[View project](https://github.com/HamzaZahid172/simple-python-api) · [Merged improvement PR](https://github.com/HamzaZahid172/simple-python-api/pull/1) · [Contribution guide](https://github.com/HamzaZahid172/simple-python-api/blob/main/CONTRIBUTING.md)
+
+---
+
 ## 🛠️ Core Tech Stack
 
 ### Backend & AI
