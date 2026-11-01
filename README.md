@@ -114,6 +114,16 @@ A practical, contributor-friendly **Flask API testing starter** demonstrating an
 
 ---
 
+## 🤝 Open-Source Collaboration
+
+I welcome contributions focused on backend APIs, automated testing and developer tooling.
+
+- **[Contributor-friendly issue: OpenAPI contract + tests](https://github.com/HamzaZahid172/simple-python-api/issues/3)**: a scoped task suitable for a genuine collaborative pull request.
+- **[Contribution guidelines](https://github.com/HamzaZahid172/simple-python-api/blob/main/CONTRIBUTING.md)**: how to propose a change, run tests and open a reviewable PR.
+- **[Recently merged: paginated Flask API + regression tests](https://github.com/HamzaZahid172/simple-python-api/pull/2)**: backward-compatible pagination with Python 3.11/3.12 CI.
+
+---
+
 ## 🛠️ Core Tech Stack
 
 ### Backend & AI
